@@ -1,0 +1,28 @@
+
+    coords: {
+      id: {
+        type: String,
+      },
+
+      latitude: {
+        type: Number,
+      },
+
+      latitudeDelta: {
+        type: Number,
+      },
+
+      longitude: {
+        type: Number,
+      },
+
+      longitudeDelta: {
+        type: Number,
+      },
+
+      address: {
+        type: String,
+      },
+
+      
+    },
